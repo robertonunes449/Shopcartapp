@@ -1,0 +1,21 @@
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  mat-form-field {
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 50px;
+    font-size: xx-small;
+    padding-top: 10px;
+ }
+ input,mat-label {
+    font-size: medium;
+ }
+
+.search {
+    font-size: 25px;
+   
+}
+ 
